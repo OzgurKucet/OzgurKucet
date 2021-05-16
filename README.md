@@ -1,16 +1,23 @@
 ### Hi there 👋
+I am Özgür. I study in Çanakkale Onsekiz Mart University. My major is Computer Engineering, this is my third year. My hometown is İzmir. 
 
-<!--
-**OzgurKucet/OzgurKucet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 I’m currently working on Java-React and C#-Angular 
 
-Here are some ideas to get you started:
+🌱 I’m also learning Machine Learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills
+
+- Java/React
+- C#/Angular
+- Python
+- C
+- HTML/CSS
+- JavaScript
+
+### Github Stats
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OzgurKucet&show_icons=true&theme=tokyonight)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OzgurKucet&layout=compact)](https://github.com/OzgurKucet)
+
+![Profile views](https://gpvc.arturio.dev/OzgurKucet)  
