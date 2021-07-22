@@ -18,6 +18,4 @@ I’m also learning Machine Learning.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OzgurKucet&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OzgurKucet&layout=compact)](https://github.com/OzgurKucet)
-
 ![Profile views](https://gpvc.arturio.dev/OzgurKucet)  
